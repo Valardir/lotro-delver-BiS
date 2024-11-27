@@ -1,0 +1,779 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RatingBonusValues>
+  <entries>
+    <stat id="268437691" key="MORALE" name="Maximum Morale">
+      <bonusRating offensive="0.0" defensive="0.5" heal="0.0" neutral="0.5"/>
+    </stat>
+    <stat id="268436768" key="POWER" name="Maximum Power">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="0.0"/>
+    </stat>
+    <stat id="268438407" key="MELEE_DAMAGE_PERCENTAGE" name="Melee Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268438635" key="RANGED_DAMAGE_PERCENTAGE" name="Ranged Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444344" key="FIRE_MITIGATION" name="Fire Mitigation">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444339" key="FROST_MITIGATION" name="Frost Mitigation">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444346" key="ACID_MITIGATION" name="Acid Mitigation">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444358" key="SHADOW_MITIGATION" name="Shadow Mitigation">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268438584" key="ICMR" name="in-Combat Morale Regen">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="0.0"/>
+    </stat>
+    <stat id="268438757" key="STEALTH_LEVEL" name="Stealth Level">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="0.0"/>
+    </stat>
+    <stat id="268439616" key="TACTICAL_CRITICAL_MULTIPLIER" name="Tactical Critical Multiplier">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268440862" key="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" name="Blade Line AoE Power Cost">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="0.0"/>
+    </stat>
+    <stat id="268435732" key="ForwardSource_Movement_SpeedMultiplier" name="Run Speed">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="0.0"/>
+    </stat>
+    <stat id="268435922" key="Trait_Captain_ImprovedWordsofCourage" name="Words of Courage Healing">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268436397" key="Skill_ChanceCriticalHit_Hunter_Stance_Precision" name="Quick Shot Critical Chance">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268437110" key="Skill_RecoveryTime_ChampionImprovedDireNeed" name="Dire Need Cooldown">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268438687" key="Skill_VitalCost_MeleeMod" name="Melee Skill Power Cost">
+      <bonusRating offensive="0.5" defensive="0.5" heal="0.5" neutral="1.0"/>
+    </stat>
+    <stat id="268439188" key="Skill_DamageMultiplier_ChampionAoeMod" name="Area of Effect Skill Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268439902" key="Skill_DamageMultiplier_Trait_Stealth_LineBonus" name="Positional Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268440388" key="Skill_VitalCost_SerenadeOffenseMod" name="Ballad Power Cost">
+      <bonusRating offensive="0.5" defensive="0.5" heal="0.5" neutral="1.0"/>
+    </stat>
+    <stat id="268441250" key="Skill_HealingMultiplier_Item" name="Healing">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268441334" key="Skill_RecoveryTime_Item_PenetratingShot" name="Penetrating Shot Cooldown">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268441336" key="Skill_RecoveryTime_EscapefromDarkness" name="Escape from Darkness Cooldown">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268441968" key="Skill_DamageMultiplier_EpicSet_Stealth_Suprisestrike" name="Surprise Strike Positional Bonus">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268441970" key="Skill_RecoveryTime_Loremaster_TestofWill" name="Test of Will Cooldown">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268441971" key="EpicSet_ChanceAvoid_BracingAttack" name="Bracing Attack Avoided Chance Modifier">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268442613" key="Skill_RecoveryTime_Burglar_Riddle" name="Riddle Cooldown">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268442666" key="Minstrel_HealingPowerReduce" name="Healing Power Cost">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268442673" key="Skill_RecoveryTime_TurnTables" name="Turn the Tables Cooldown">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268442674" key="Skill_RecoveryTime_ThrillDanger" name="Thrill of Danger Cooldown">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268442679" key="Skill_RecoveryTime_HeartSeeker" name="Heart Seeker Cooldown">
+      <bonusRating offensive="2.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268443429" key="Skill_Runekeeper_Fire_DoT_Damage" name="Wrath of Flame Damage Over Time">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268443431" key="Skill_Runekeeper_Healing_HoT" name="Healing Over Time">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268443436" key="Skill_Runekeeper_Frost_Damage" name="Frost Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268443483" key="EffectMod_BleedDamage_Guardian" name="Guardian Bleed Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268443531" key="Skill_Hunter_Skill_InductionDuration_BowInductions" name="Bow Inductions">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268443722" key="Burglar_Tricks_Duration" name="Tricks Duration">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268443833" key="Skill_DamageMultiplier_Trait_MasterofWar" name="Shadow's Lament Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268443895" key="Skill_RecoveryTime_Champion_Heroics" name="Heroics Cooldown">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444111" key="IA_Hunter_Damage_HeartSeeker" name="Heart Seeker Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444387" key="Combat_ArmorDefense_PointsModifier_Lightning" name="Lightning Mitigation">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444442" key="IA_Burglar_Recovery_ReadyAndAble" name="Coup de Grâce Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444449" key="IA_Burglar_Defense_KnivesOut" name="Knives Out Critical Chance">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444727" key="IA_Loremaster_TestofWill_Damage" name="Test of Will Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444731" key="IA_Loremaster_MagicSkills_Damage" name="Tactical Skills Direct Damage">
+      <bonusRating offensive="1.0" defensive="0.5" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444842" key="Trait_RecoveryTime_JavelinSkills" name="Javelin Skills Cooldown">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444875" key="IA_Minstrel_Motivation_Healing" name="Healing and Motivation Skills Morale Healing">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268444884" key="IA_Minstrel_Ballads_Tier1_Damage" name="Minor Ballad Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268445075" key="Skill_Duration_HamperingJavelin" name="Hampering Javelin Duration">
+      <bonusRating offensive="0.5" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268445076" key="Skill_DamageMultiplier_CelebrationofSkill" name="Shield Gambit Line Healing">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268445084" key="Skill_Duration_CarefulStep" name="Careful Step Duration">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268445438" key="Skill_HealMultiplier_Conviction" name="Heal Bonus for Conviction">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268445664" key="Skill_Runekeeper_SmoulderingWrath_Damage" name="Smouldering Wrath Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268445667" key="Skill_Runekeeper_SelfMotivation_PowerReturn" name="Self Motivation Power or Morale Restore">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268445823" key="Skill_ThreatTransferMod_DanceofWar" name="Conviction Threat Transfer">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268445825" key="Skill_Runekeeper_VividImagery_PowerCost" name="Vivid Imagery Power Cost">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268446230" key="Skill_Duration_LoreMaster_BlindingFlash" name="Blinding Flash Duration">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268448021" key="Skill_Guardian_CriticalChance_Overwhelm" name="Overwhelm Critical Chance">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268448298" key="Skill_RecoveryTime_ShieldoftheDunedain" name="Shield of the Dúnedain Duration">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268448299" key="Skill_Duration_Captain_MakeHaste" name="Make Haste Duration">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268448538" key="Skill_Loremaster_SharethePower_Multiplier" name="Power Restored">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268451127" key="Itemset_Runekeeper_CeaselessArgument_SlowRate" name="Ceaseless Argument Slow Chance">
+      <bonusRating offensive="0.5" defensive="0.5" heal="0.5" neutral="1.0"/>
+    </stat>
+    <stat id="268451146" key="ItemSet_EpicConclusion_recovers_SustainingBolt_ApplicationChance" name="Epic Conclusion recovers Sustaining Bolt">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268451197" key="Skill_Minstrel_DamageMultiplier_WarspeechCalls" name="Cry and Call Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268451977" key="Skill_Minstrel_CriticalChance_Ballad" name="Critical Chance of Ballads">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268451980" key="Trait_Hunter_TrapDamage" name="Trap Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268452134" key="Burglar_Skill_RecoveryTime_AllTricks" name="Trick Cooldown">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268452431" key="Itemset_Loremaster_RecoveryTime_CallValar" name="Call to the Valar Cooldown">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268455113" key="ForwardSource_Combat_Captain_SkillCombo" name="Current Captain Skill Combo">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268455133" key="ForwardSource_Combat_Burglar_SkillCombo" name="Current Burglar Skill Combo">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268455136" key="ForwardSource_Combat_Runekeeper_SkillCombo" name="Current Runekeeper Skill Combo">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268455138" key="ForwardSource_Combat_Loremaster_SkillCombo" name="Current Loremaster Skill Combo">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268455143" key="ForwardSource_Combat_Champion_SkillCombo" name="Current Champion Skill Combo">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268455239" key="IA_Captain_Event_Duration" name="Battle States and Defeat Response Duration">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268455643" key="Skill_Champion_EffectMagnitude_Bubble" name="Champion Skill Bubble Magnitude">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268457120" key="Trait_Burglar_Gambler_DoT_Pulses" name="DoT Pulses">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268457277" key="Itemset_Runekeeper_EssenceofStorm_CritChance" name="Essence of Storm Critical Chance">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268457568" key="Trait_Hunter_InductionBow_DamageMod" name="Induction Bow Damage">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268457615" key="Skill_Hunter_Upshot_DamageMod" name="Upshot Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268457674" key="Skill_Warden_SpearGambitDamage" name="Spear Gambit Initial Damage">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268457683" key="Skill_Warden_MoraleTapDamage" name="Morale-tap Damage and Healing">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268457696" key="Skill_Loremaster_SignofProtection_IncDamage" name="Pet Incoming Damage">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268457700" key="Skill_Loremaster_SignofProtection_Morale" name="Pet Morale">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268457822" key="Skill_Champion_AddStrike_DamageMod" name="Strikes Damage">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268458001" key="Skill_Guardian_BrutalAssault_BleedDamage" name="Bleed Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268459087" key="Skill_Champion_BladeDamage" name="Blade Skill Damage">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268459153" key="Skill_Runekeeper_ShockingWords_DamageMod" name="Shocking Words Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268459497" key="Skill_Hunter_StanceBonus_Duration" name="Stance Buff Duration">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268459498" key="Skill_Guardian_ForceTaunt_Duration" name="Force Taunt Duration">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268460195" key="Skill_CritChanceMod_TacticalSkills" name="Tactical Skill Crit Chance">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268460255" key="ForwardSource_Combat_Beorning_SkillCombo" name="Current Beorning Skill Combo">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268460289" key="Skill_Beorning_QuickRecovery_InitialHealMod" name="Recuperate's Initial Heal">
+      <bonusRating offensive="0.5" defensive="1.0" heal="0.5" neutral="1.0"/>
+    </stat>
+    <stat id="268460448" key="Skill_Beorning_ItemSet_Wrath_Max" name="Max Wrath">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268460598" key="Skill_Runekeeper_IA_BombasticInspiration_Heal" name="Bombastic Inspiration Heal">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268460644" key="Skill_Burglar_IA_CunningAttack_BleedDamage" name="Cunning Attack Bleed Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268460652" key="Skill_Guardian_IA_ReactiveParry_Damage" name="Reactive Parry Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268460671" key="Skill_Minstrel_IA_CalltoIoreth_Cooldown" name="Call to Ioreth Cooldown">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268461014" key="Skill_Burglar_DamagingGamble_BleedDamage" name="Damaging Gamble Bleed Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268461045" key="Skill_IA_Hunter_FocusBowDamage" name="Damage for Focus Consuming Skills">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268461530" key="Skill_Warden_Assailment_Debuff_Duration" name="Battering Strikes, Suppression, and No Respite Duration">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268461534" key="Skill_Minstrel_Triumphant_Spirit_Healing" name="Triumphant Spirit Healing">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268462149" key="Itemset_Runekeeper_StaticSurge_Proc_Chance" name="Static Surge Proc Chance">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268462664" key="Skill_Brawler_SpenderAttack_Damage" name="Finisher Skill Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268462732" key="Skill_Brawler_Vulnerable_ProbabilityMod" name="Vulnerable Application Chance">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268462739" key="Skill_OverTime_Damage" name="Damage Over Time">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268462799" key="Skill_Brawler_Flex_DurationMod" name="Get Serious Buff Duration">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268462945" key="Skill_Beorning_DoT_Pulses" name="Damage Over Time Pulses">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268463065" key="Skill_RecoveryTime_Barrage_T3" name="Barrage Final Cooldown">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268463076" key="Skill_Burglar_CoupDeGrace_Cooldown" name="Coup De Grace Cooldown">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268463776" key="Effect_2H_Bonus_Mod" name="Base bonus multiplier for effects which should be modified by wielding 2H weapons">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="0.0"/>
+    </stat>
+    <stat id="268464047" key="Corsair_Skilldamage_Finisher" name="Finisher Skills Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464053" key="Corsair_Shanty_Foretoggle_Cooldown" name="Fore with Haste Cooldown">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464109" key="Corsair_ShantyHeal_Potency" name="Shanty Healing Potency">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464158" key="Skill_Beorning_ThornedArmour_DamageRedirectMod" name="Thorned Armour Damage Redirected">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464212" key="Corsair_Jugglery_AppChance" name="Jugglery Application Chance">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464214" key="Corsair_Swordplay_Defensive_Duration" name="Swordplay Defensive Buff Durations">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464218" key="Corsair_STMez_Cooldown" name="Thrum of the Sea Cooldown">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464292" key="Corsair_StarGuide_Cooldown" name="Guided by the Stars Cooldown">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464581" key="Trait_Runekeeper_Essence_Storm_Cooldown" name="Essence of Storm Cooldown">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464585" key="Skill_Runekeeper_HoT_Pulses" name="Heal over Time Pulses">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464586" key="Skill_Beorning_Bash_DamageMod" name="Bash Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464587" key="Skill_Beorning_Execute_CooldownMod" name="Execute Cooldown">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464589" key="Skill_Beorning_Hearten_CooldownMod" name="Hearten Cooldown">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464590" key="Skill_Beorning_Bellow_Cooldown" name="Rejuvinating Bellow Cooldown">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464593" key="Trait_Burglar_Allin_Cooldown" name="All In Cooldown">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464598" key="Itemset_Burglar_Aim_DevCrit" name="Aim Devastating Critical Chance">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464599" key="Skill_Minstrel_CoP_Defense_Bonus" name="Change of Pace Defence Bonus">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464600" key="Skill_Minstrel_MinorBallad_CalltoFate_Damage" name="Call to Fate Damage from Minor Ballad">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464601" key="Skill_Minstrel_SongofAid_DR" name="Song of Aid Damage Negation">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464604" key="Skill_Minstrel_Bubble_IncDamage" name="Hammerhand Bubbles Incoming Damage">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464606" key="Skill_Minstrel_PerfectBallad_Healing" name="Perfect Ballad Healing">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464607" key="Skill_Minstrel_CoP_Offense_Bonus" name="Change of Pace Damage Bonus">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464608" key="Skill_Corsair_GBtS_IncDam_Mod" name="Guided By the Stars Incoming Damage Reduction">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464609" key="Skill_Champion_BfC_DamageBuff" name="Born for Combat Damage Buff Potency">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464614" key="Skill_Champion_SuddenDefence_IncDam" name="Incoming Damage Reduction while Sudden Defence holds">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464618" key="Skill_Captain_RoutingCry_Cooldown" name="Routing Cry Cooldown">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464619" key="Skill_Captain_DevastatingBlow_CritChance" name="Devastating Blow Critical Chance">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464620" key="Skill_Captain_SoD_ExpireHeal_AppChance" name="DNT - Chance that SoD heals when it expires">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464621" key="Skill_Captain_SoD_Cooldown" name="Shield of the Dúnedain Cooldown">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464624" key="Skill_Captain_Songbrother_IncDamage" name="Song Brother's Call Damage Reduction">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464629" key="Skill_Hunter_RapidFire_Duration" name="Rapid Fire Duration">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464630" key="Skill_Hunter_DurationMod_DistractingShot" name="Distracting Shot Daze Duration">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464631" key="Skill_Hunter_RecoveryTime_SplitShot" name="Split Shot Cooldown">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464632" key="Skill_Captain_SA_Inspire_BuffMult" name="Self-motivation Damage Multiplier">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464633" key="Skill_Guardian_HammerDown_CD" name="Hammer Down Cooldown">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464634" key="EffectMod_Guardian_ShieldHeal_Potency" name="DNT - Shield Healing Potency container property">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464644" key="Skill_Brawler_EfficientStrikes_PowerCost" name="Efficient Strikes Power Cost Reduction">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464648" key="Skill_Brawler_EfficientStrikes_MettleMod" name="Efficient Strikes Mettle Reduction">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464651" key="Skill_Warden_UnseenStrikes_Damage" name="Unseen Strike Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464653" key="Skill_Warden_Desperate_StunDuration" name="Desperate Fist Stun Duration">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464654" key="Skill_Warden_WayoftheX_Duration" name="Way of the Spear Duration">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="0.0"/>
+    </stat>
+    <stat id="268464655" key="Skill_Warden_Desperate_IncDam" name="Desperate Spear Incoming Damage">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464656" key="Skill_Warden_SearedFlesh_Damage" name="Seared Flesh Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464658" key="Skill_Warden_DesperateShield_Heal" name="Desperate Shield Healing">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464659" key="Corsair_MarkedFoes_Cooldown" name="Marked Foes Cooldown">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464660" key="Itemset_Loremaster_FellowshipFriend_Duration" name="Fellowship Friend Duration">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464661" key="Itemset_Loremaster_PoD_EntsReset_Appchance" name="DNT - Ents Reset Chance">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464663" key="Skill_Loremaster_FierceLightning_Damage" name="Fierce Lightning Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464666" key="EffectMod_Burglar_RollWithIt_Potency" name="Roll With It Damage Reduction">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464683" key="Effect_Guardian_Fortifications_Bonus_3" name="Tier 3 Max Morale">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464684" key="Effect_Guardian_Fortifications_Bonus_4" name="Tier 4 Max Morale">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="0.0"/>
+    </stat>
+    <stat id="268464685" key="Effect_Guardian_Fortifications_Bonus_5" name="Tier 5 Max Morale">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="0.0"/>
+    </stat>
+    <stat id="268464686" key="Effect_Guardian_Fortifications_Bonus_1" name="Tier 1 Max Morale">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="0.0"/>
+    </stat>
+    <stat id="268464687" key="Effect_Guardian_Fortifications_Bonus_2" name="Tier 2 Max Morale">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="0.0"/>
+    </stat>
+    <stat id="268464920" key="Skill_Loremaster_StaffSweep_Damage" name="Staff Sweep Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268464926" key="Skill_Loremaster_WizardSigil_Damage" name="Wizard's Sigil Damage">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465084" key="Skill_Warden_RapidTechnique_Cooldown" name="Rapid Techniques Cooldown">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465086" key="Skill_TankSpec_BonusThreat_Mult" name="Specialization Bonus Skill Threat">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465087" key="Skill_Champion_CriticalChance_RagingBlade" name="Raging Blade Critical Chance">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465088" key="Runekeeper_Volcanic_Summon_Duration" name="Volcanic Rune-stone Duration">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465089" key="Skill_Champion_Invincible_Duration" name="Invincible Duration">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465090" key="Skill_Runekeeper_ArmourElements_BubbleMod" name="Armour of the Elements Bubble Potency">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465092" key="Skill_Brawler_BracingGuard_Cooldown" name="Bracing Guard Cooldown">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465095" key="Skill_Guardian_Shieldblow_CritChance" name="Shield-blow Critical Chance">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465096" key="Effect_Guardian_RelentlessFury_BuffPotency" name="Relentless Fury Buff Potency">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465097" key="Skill_Beorning_ToYourAid_Cooldown" name="To Your Aid Cooldown">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465099" key="Skill_Beorning_BloodPrize_Duration" name="Blood Prize Duration">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465100" key="Skill_Beorning_Hurricane_Cooldown" name="Hurricane Cooldown">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465101" key="Skill_Beorning_Hurricane_DamageMod" name="Hurricane Melee Damage Buff">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465103" key="Corsair_RaggedKnife_Cooldown" name="Ragged Knife Cooldown">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465104" key="Skill_Loremaster_Command_Rage_Cooldown" name="Sign of the Wild: Rage Cooldown">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <stat id="268465106" key="Skill_Loremaster_Command_Major_AM_Cooldown" name="Major Command (The Ancient Master) Cooldown">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </stat>
+    <effect id="1879300567" name="Warden DPS">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300548" name="Guardian Tank">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300551" name="Champion Tank">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879484463" name="DNT">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879180959" name="DNT - Lorien Set Bonus">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300544" name="Loremaster DPS">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879264278" name="Armour of the Erebor Mischief-maker">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300552" name="Runekeeper Heal">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300541" name="Loremaster Heal">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879484377" name="DNT - Make Punishing Blow Available">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879491757" name="DNT - Defy Death cooldown/activator">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300555" name="Warden Tank">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300542" name="Captain Tank">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </effect>    <!-- NEW -->
+    <effect id="1879249249" name="Protection from all disables">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879483918" name="DNT">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879483985" name="DNT - Critical Hits generate Mettle">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300547" name="Runekeeper DPS">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300549" name="Hunter Survive">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300564" name="Champion DPS">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300543" name="Minstrel DPS">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300558" name="Burglar Survive">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300559" name="Captain DPS">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>    <!-- NEW -->
+    <effect id="1879140223" name="Flame Ward">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300562" name="Minstrel Heal">
+      <bonusRating offensive="0.0" defensive="0.0" heal="1.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300554" name="Hunter DPS">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300557" name="Guardian DPS">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879491756" name="Flame Ward">
+      <bonusRating offensive="1.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </effect>
+    <effect id="1879300556" name="Burglar DPS">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </effect>    <!-- NEW -->
+    <specialEffect key="key:620867328:108054836" value="Sure Strike increases Evade rating.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088891:108054836" value="Call to the Valar will cause your next Staff Strike to open a Fellowship Maneuovre.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621101218:108054834" value="Shield-blow Critical Hits reset the cooldown of Shield-blow.">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:621089098:108054836" value="While Mettle Shield is active, your Melee attacks will restore 2% of your Morale.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:620867330:108054836" value="Catch a Breath removes slows and increases run speed by 15% for 3s.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088854:108054838" value="Attacks have a chance to refresh the duration of an active Damaging or Debuffing Gamble.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088667:108054838" value="Being struck while Thrill of Danger is active tiers up a Damage buff.">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088897:108054836" value="Quick Shot reduces the active cooldown of Distracting Shot by 2s.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088792:108054835" value="Shield Skills restore 1% of your Morale.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:621088725:108054838" value="Rejuvenating Bellow increases the Healing and Wrath generation of your next Nature's Mend">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:621088976:108054838" value="Devastating Blow Criticals increase the Damage of your next Routing Cry.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:620807229:108054836" value="-20% Defeat Event skills Cooldowns">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621089116:108054834" value="Sweeping Riposte reduces the active cooldown of Sudden Defence by 2s.">
+      <bonusRating offensive="0.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:620807222:108054836" value="Wild Attack causes a bleed on critical hits.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621089082:108054838" value="Cauterizing Steel and Unseen Strikes will reset your Mastery Skill Cooldowns.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088849:108054838" value="In Harm's Way applies Song-brother's Call to your fellowship.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088921:108054838" value="Epic for the Ages restores extra morale to your target if they are under the influence of a Rune-stone of Restoration.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088712:108054838" value="Sweeping Cut reduces the active cooldown of Cataclysmic Shout by 2s.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621089098:108054838" value="Finishers will reduce the active cooldown of Plant Feet by 2s.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621089098:108054834" value="Sinister Cross reduces the Mettle cost of your next Finisher by 2.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621101190:108054834" value="Staff Sweep applies Flanked!">
+      <bonusRating offensive="1.0" defensive="1.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088953:108054838" value="Critical Hits generate 1 Mettle.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621101222:108054834" value="Penetrating Shot upgrades Barbed Bleed.">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088765:108054838" value="Great Cleave's effect becomes Thousand Blade Cleave, which is 10s shorter but removes all Blade Skill Fervour costs and reduces their Cooldowns by 50%">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:621089018:108054836" value="Critical hits with Knee Strike will increase your Critical Hit chance for 4s.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621101219:108054834" value="Loaded Dice: Damaging Gamble has improved odds to roll 4-6 and never roll 1s.">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:620836006:108054834" value="Enables Protector's Reproach On Use Skill.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088921:108054836" value="Bombastic Inspiration tiers up a reduction of your next Epic for the Ages induction.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:621089114:108054838" value="Combustion creates a Molten Rune-stone where it lands.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621101192:108054834" value="Slam steals Morale from your target.">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621101232:108054834" value="Inspire Fellows reduces the active cooldown of Triumphant Spirit by 2s.">
+      <bonusRating offensive="0.0" defensive="1.0" heal="1.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621089021:108054838" value="While Rapid Fire is active, your Bow Attacks will restore Morale.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:620867323:108054836" value="10% Fist Gambit Damage">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621089116:108054838" value="Unbreakable reduces your Incoming Damage. Mighty Roar will consume that effect to increase your enemies' Incoming Damage.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088655:108054838" value="Call to Wild gives instant Wrath and Wrath over time.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088844:108054838" value="Quick Shot will tier up the Planted Draw effect, which is removed when you move.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088897:108054838" value="Explosive Arrow will stun and interrupt enemies.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:620807227:108054836" value="Riddle can daze multiple targets.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621089146:108054838" value="Overwhelm no longer consumes Deep Wounds.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088703:108054838" value="Strike skills have a 15% chance to make Punishing Blow usable regardless of your target's Health.&#10;While True Heroics is Active, Strikes will reset the cooldown of Punishing Blow.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088802:108054838" value="Fist Gambits reduce the active cooldown of Desperate Combat by 2s.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621089018:108054838" value="Each strike of Pummel will increase the chance your next Fist of the Valar will be a Critical Hit.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621101220:108054834" value="Shadow's Lament resets the cooldown of Cutting Attack.">
+      <bonusRating offensive="1.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:620807223:108054836" value="Staff-strike doesn't consume Flanked effect.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621088793:108054838" value="To Arms (Blade-brother) resets the cooldowns of most Melee skills.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>    <!-- NEW -->
+    <specialEffect key="key:620807221:108054836" value="Turn the Tables grants immunity to all disables for 10s.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621089101:108054838" value="Rejuvenating Bellow reduces the active cooldown of Nature's Salve.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+    <specialEffect key="key:621089117:108054838" value="Cauterizing Steel will spread Spear Bleeds from your target before consuming them.">
+      <bonusRating offensive="0.0" defensive="0.0" heal="0.0" neutral="1.0"/>
+    </specialEffect>
+  </entries>
+</RatingBonusValues>
